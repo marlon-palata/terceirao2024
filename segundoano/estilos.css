@@ -1,0 +1,38 @@
+/*estilizando o botão com CLASSE */
+.meu-botao:hover {
+    background-color: yellow; /* Quando o mouse passa
+    por cima */
+    }
+/* Estilizando o campo de texto com o ID */
+#meu-input:focus {
+    border: 2px solid blue; /* Quando o campo é clicado
+    */
+    
+    }
+
+/* Estilizando a lista */
+.lista li:nth-child(2) {
+    background-color: lightgrey; /* Segundo item da
+    lista */
+    }
+
+/* Adicionando texto antes com
+pseudo-elementos */
+.aviso::before {
+    content: "Atenção: ";
+    font-weight: bold;
+    color: red;
+    }
+
+/*adicionando texto, depois com pseudo-elemento*/
+.aviso::after {
+        content: " [importante]";
+        font-weight: bold;
+        color: blue;
+        }
+
+        /* Estilizando a primeira letra do parágrafo */
+p::first-letter {
+    font-size: 2em;
+    color: green;
+    }
