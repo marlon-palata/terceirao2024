@@ -112,7 +112,8 @@
 }
 
 .box {
-    box-shadow: 5px 10px 8
+    box-shadow: 5px 10px 8;
+    opacity: 0.5; /* Elemento 50% transparente */
 }
 
-opacity: 0.5; /* Elemento 50% transparente */
+
