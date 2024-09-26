@@ -1,0 +1,118 @@
+.box {
+    position: static;
+}
+
+.box {
+    position: relative;
+    top: 20px; /* Move o elemento 20px para baixo */
+    left: 15px; /* Move o elemento 15px para a direita */
+}
+
+.box {
+    position: absolute;
+    top: 50px; /* Posicionado 50px a partir do topo do contêiner pai */
+    right: 30px; /* 30px a partir da borda direita */
+}
+
+.box {
+    position: fixed;
+    bottom: 0; /* Fixado na parte inferior da janela */
+    right: 0; /* Fixado na borda direita */
+}
+
+.box {
+    position: sticky;
+    top: 10px; /* Fica preso a 10px do topo quando a página é rolada */
+}
+
+.box {
+    border-style: solid; /* Linha sólida */
+    border-width: 3px; /* Largura da borda */
+    border-color: red; /* Cor da borda */
+}
+
+.box {
+    border: 2px dashed blue; /* 2px de largura, linha tracejada e cor azul */
+}
+
+.box {
+    border-width: 5px; /* Borda de 5px */
+}
+
+.box {
+    border-radius: 15px; /* Bordas arredondadas de 15px */
+}
+
+.box {
+    margin: 10px 20px 30px 40px; /* Ordem: superior, direita, inferior, esquerda */
+}
+
+.box {
+    padding: 10px; /* Padding de 10px em todos os lados */
+}
+
+.box {
+    display: block;
+}
+
+.box {
+    display: inline;
+}
+
+.box {
+    display: inline-block;
+}
+
+.container {
+    display: flex;
+    justify-content: center; /* Centraliza elementos horizontalmente */
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Três colunas iguais */
+}
+
+.box {
+    display: none; /* Oculta o elemento */
+}
+
+.box {
+    background-color: lightblue;
+}
+
+.box {
+    background-image: url('imagem.jpg');
+}
+
+.box {
+    background-image: url('imagem.jpg');
+    background-repeat: no-repeat; /* Não repete a imagem */
+}
+
+.box {
+    background-image: url('imagem.jpg');
+    background-size: cover;
+}
+
+.box {
+    overflow: visible;
+}
+
+.box {
+    overflow: hidden;
+}
+
+.box {
+    overflow: scroll;
+}
+
+.box {
+    overflow: auto;
+}
+
+.box {
+    box-shadow: 5px 10px 8
+}
+
+opacity: 0.5; /* Elemento 50% transparente */
