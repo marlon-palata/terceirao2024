@@ -13,7 +13,7 @@ __Negrito__
 ___Negrito e Itálico___
 
 Lista não ordenada:
-- Item 1
+* Item 1
 - Item 2
   - Subitem
 
@@ -21,6 +21,9 @@ Lista ordenada:
 1. Primeiro item
 2. Segundo item
    1. Subitem
+   1.
+   1.
+   1.
 
 [Visite o Google](https://www.google.com)
 
@@ -41,14 +44,19 @@ print("Presta atenção na aula")
 | -------- | -------- |
 | Linha 1  | Linha 1  |
 | Linha 2  | Linha 2  |
+| Linha 3  | Linha 3  |
+| -------- | -------- |
 
 ---
 ***
 ___
 
-- [x] Tarefa 1 não concluída
+- [ ] Tarefa 1 não concluída
 - [ ] Tarefa 2 concluída
+- [ ] Tarefa 3 
+
 
 \*Este texto não será em itálico\*
+<p style="color:blue">afsidfjidsfjjfifdsjdfiasdjfjdfijfijfaifjdisfjdifjdsifjdsifjdsifjdsaifjdsifjdasfidsjfidasjfidsjfdisfjdisfjifjfidjfidjafidsjfidsjfidfjdsifjaifjfijasfijsdafifjaifi</p>
 
-<p style="color:blue">Este é um parágrafo em HTML com estilo azul.</p>
+<p style="color:red">afsidfjidsfjjfifdsjdfiasdjfjdfijfijfaifjdisfjdifjdsifjdsifjdsifjdsaifjdsifjdasfidsjfidasjfidsjfdisfjdisfjifjfidjfidjafidsjfidsjfidfjdsifjaifjfijasfijsdafifjaifi</p>
